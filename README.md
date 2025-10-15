@@ -29,6 +29,6 @@ If you want to chat about environmental models, share cycling tips, or just say 
 
 Or if you're curious about my cycling adventures and want to see the progress towards that gravel bike race goal, check out my Strava profile 🚴‍♀️: [Follow me on Strava](https://www.strava.com/athletes/funsong).
 
-**Links:** [Website](https://waveletswave.github.io/) · [Preprint](#) · [Data](#) · [Docs](#)
+**Links:** [🌩️ Personal Site](https://waveletswave.github.io/)
 
 
